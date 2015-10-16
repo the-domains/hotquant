@@ -1,7 +1,6 @@
 name: HotQuant
 favicon: null
-layout_spectrum: 0.75239
-typography_spectrum: 0.48086
+layout_spectrum: 0.8
 cta:
   domain: null
   bucket: null
@@ -21,8 +20,8 @@ color:
     - '#ffcbcb'
     - '#7f7f7f'
     - '#424242'
-  brandStrength: 1
-  lightness: 0
-  saturation: 0
-  rhythmicContrast: 1
+  brandStrength: 0
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
