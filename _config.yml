@@ -1,6 +1,7 @@
 name: HotQuant
 favicon: null
 layout_spectrum: 0.75239
+typography_spectrum: 0.48086
 cta:
   domain: null
   bucket: null
