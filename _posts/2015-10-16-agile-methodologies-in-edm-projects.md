@@ -3,20 +3,20 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'When inertia breaks Agile, how do we use Agile to fix Agile?'
-datePublished: '2015-10-16T19:46:47.749Z'
-dateModified: '2015-10-16T19:46:26.508Z'
+datePublished: '2015-10-16T20:59:34.591Z'
+dateModified: '2015-10-16T20:59:04.932Z'
 title: Agile Methodologies in EDM Projects
+sourcePath: _posts/2015-10-16-agile-methodologies-in-edm-projects.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-10-16-agile-methodologies-in-edm-projects.md
-published: true
 url: agile-methodologies-in-edm-projects/index.html
 _type: Article
 
@@ -83,5 +83,6 @@ Along the way there were some tense conversations with the business. After all, 
 Of course you'll wind up doing it again in six months when the next potential source of friction shows up on your radar. But having successfully demonstrated the virtue of identifying and neutralizing that stuff early rather than late, you're likely to find your client much more receptive to your ideas the second time around.
 
 Now _that's _Agile.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a2e937-56c7-473d-af2a-5b13cf11383f.jpg)
 
 [0]: http://agilemanifesto.org/principles.html
