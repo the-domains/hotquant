@@ -1,7 +1,6 @@
 name: HotQuant
 favicon: null
 layout_spectrum: 0.8
-title: 'HotQuant, Inc.'
 cta:
   domain: null
   bucket: null
@@ -25,7 +24,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: null
-    url: null
+purpose: []
