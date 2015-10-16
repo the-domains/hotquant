@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[HotQuant]]></title>
         <description><![CDATA[HotQuant]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hotquant/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 19:48:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 16 Oct 2015 20:59:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hotquant/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Agile Methodologies in EDM Projects]]></title>
-            <description><![CDATA[<article><h1>Agile Methodologies in EDM Projects</h1><p>When inertia breaks Agile, how do we use Agile to fix Agile?</p></article>]]></description>
-            <link>undefinedagile-methodologies-in-edm-projects/index.html</link>
+            <description><![CDATA[<article><h1>Agile Methodologies in EDM Projects</h1><p>When inertia breaks Agile, how do we use Agile to fix Agile?</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d2a2e937-56c7-473d-af2a-5b13cf11383f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hotquant/agile-methodologies-in-edm-projects/index.html</link>
             <guid isPermaLink="false">00656b90-e92e-466c-ac80-43318427c1db</guid>
-            <pubDate>Fri, 16 Oct 2015 19:46:47 GMT</pubDate>
+            <pubDate>Fri, 16 Oct 2015 20:59:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
