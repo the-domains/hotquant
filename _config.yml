@@ -1,19 +1,4 @@
-name: HotQuant
-favicon: null
-layout_spectrum: 0.8
-title: 'HotQuant, Inc.'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.5
 color:
   brandColors:
     - '#000000'
@@ -25,4 +10,21 @@ color:
   lightness: 1
   saturation: 0.9375
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: HotQuant
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'HotQuant, Inc.'
+description: Sometimes it does take a rocket scientist.
 purpose: []
