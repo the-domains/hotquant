@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Agile Methodologies in EDM Projects
+    id: 00656b90-e92e-466c-ac80-43318427c1db
+    type: content
 favicon: null
 title: 'HotQuant, Inc.'
 description: Sometimes it does take a rocket scientist.
