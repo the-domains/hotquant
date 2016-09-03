@@ -1,4 +1,6 @@
 typography_spectrum: 0.5
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -19,6 +21,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/68bde9a6-88ad-45a9-baa7-fd95cc80c479.png
 name: HotQuant
 cta:
   domain: null
@@ -28,7 +32,8 @@ navigation:
   - name: Agile Methodologies in EDM Projects
     id: 00656b90-e92e-466c-ac80-43318427c1db
     type: content
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ba0263-e5f4-4b89-a61c-b8dde4556542.ico
 title: 'HotQuant, Inc.'
 description: Sometimes it does take a rocket scientist.
 purpose: []
