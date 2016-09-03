@@ -1,5 +1,6 @@
-layout_spectrum: 0.4037092188373208
 typography_spectrum: 0.005000733071938157
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,12 +12,11 @@ color:
   lightness: 1
   saturation: 0.9375
   rhythmicContrast: 1
-content_rating:
-  adult: false
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.4037092188373208
 analytics:
   google: null
   facebook: null
@@ -28,10 +28,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Agile Methodologies in EDM Projects
-    id: 00656b90-e92e-466c-ac80-43318427c1db
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/e7ba0263-e5f4-4b89-a61c-b8dde4556542.ico
 title: 'HotQuant, Inc.'
