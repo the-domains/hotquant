@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-08-31T21:09:31.336Z'
+datePublished: '2016-08-31T21:22:04.397Z'
+sourcePath: _posts/2016-08-31-simplicity-tame-your-system-diagram.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T21:08:51.127Z'
-title: ''
+dateModified: '2016-08-31T21:22:03.551Z'
+title: 'Simplicity: Tame Your System Diagram'
 publisher: {}
-description: 'Simplicity: Tame Your System Diagram'
+description: 'As your business grew, so did your system.'
 starred: false
-sourcePath: _posts/2016-08-31-simplicity-tame-your-system-diagram.md
 _type: Blurb
 
 ---
-Simplicity: Tame Your System Diagram
+# Simplicity: Tame Your System Diagram
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f711a9d0-1de3-4cfd-98d8-df7ea8c5fa64.jpg)
 
 As your business grew, so did your system.
