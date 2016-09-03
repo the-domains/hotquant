@@ -3,20 +3,17 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: 'When inertia breaks Agile, how do we use Agile to fix Agile?'
-datePublished: '2015-10-20T16:19:37.245Z'
-dateModified: '2015-10-17T19:25:15.362Z'
-title: Agile Methodologies in EDM Projects
+description: Everybody loves Agile. Right?
+datePublished: '2016-08-31T20:19:15.287Z'
+dateModified: '2016-08-31T20:19:14.834Z'
+title: ''
 sourcePath: _posts/2015-10-16-agile-methodologies-in-edm-projects.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+author: []
+via: {}
+starred: true
 url: agile-methodologies-in-edm-projects/index.html
 _type: Article
 
